@@ -4,7 +4,7 @@
 
 **Developed by Prince meena**
 
-**Recommended PHP Version 5.6, 7.4**
+**Recommended PHP Version 5.6, 7.8**
 
 
 
